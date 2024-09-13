@@ -9,4 +9,4 @@ openwrt系统升级用`openwrt-ipq60xx-generic-zn_m2-squashfs-nand-factory.bin`
 
 #编译说明
 
-自编译调整 请for本仓库后 编辑config/zn-m2.config
+自编译调整 请for本仓库后 切换到test分支 编辑config/zn-m2.config
